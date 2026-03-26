@@ -1,6 +1,7 @@
 Lab assignment 4 link
 
-http://20.40.42.65
+1) http://20.40.42.65
+2) https://tanyaweb2026.z29.web.core.windows.net/
 
 Lab assignment 2 google colab link
 
